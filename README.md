@@ -31,7 +31,7 @@ Transform your career with AI-powered resume optimization! This modern web appli
 ### 4. **ATS Score Estimation**
 - Gives a rough ATS compatibility score (0-100)
 - Explains scoring rationale
-- Identifies potential formatting and content issues
+
 
 ## 🚀 Getting Started
 
